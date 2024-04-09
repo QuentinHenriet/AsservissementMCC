@@ -1,7 +1,7 @@
 /**
   ******************************************************************************
   * @file	pwm.c
-  * @authors	Adam Cheikh Brahim, Karim Abdellaziz and Sami Asfary
+  * @authors	HENRIET QUENTIN, TCHINIANGA BASTIEN
   * @brief	Functions that control the motor
   ******************************************************************************
   **/
