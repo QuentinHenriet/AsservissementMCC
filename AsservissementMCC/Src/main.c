@@ -3,7 +3,7 @@
  ******************************************************************************
  * @file           : main.c
  * @brief          : Main program body
- * @authors	Adam Cheikh Brahim, Karim Abdellaziz and Sami Asfary
+ * @authors	HENRIET QUENTIN, TCHINIANGA BASTIEN
  ******************************************************************************
  * @attention
  *
