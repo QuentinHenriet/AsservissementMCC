@@ -1,7 +1,7 @@
 /**
  ******************************************************************************
  * @file	shell.c
- * @authors	Adam Cheikh Brahim, Karim Abdellaziz and Sami Asfary
+ * @authors	HENRIET QUENTIN, TCHINIANGA BASTIEN
  * @brief	Commands management
  ******************************************************************************
  **/
